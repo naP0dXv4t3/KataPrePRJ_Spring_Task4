@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2.2.1. spring_hibernate/spring-hibernate.iml" filepath="$PROJECT_DIR$/2.2.1. spring_hibernate/spring-hibernate.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/task4_springHibernate.iml" filepath="$PROJECT_DIR$/.idea/task4_springHibernate.iml" />
     </modules>
   </component>
